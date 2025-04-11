@@ -1,1 +1,2 @@
-
+// link to the guide
+https://dev.to/neon-postgres/building-a-crud-api-with-laravel-and-sanctum-3525
